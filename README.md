@@ -30,7 +30,7 @@ Edit-Compass & EditReward-Compass: A Unified Benchmark for Image Editing and Rew
 </p>
 
 <p align="center">
-  <a href="#">📄 Paper</a> |
+  <a href="https://arxiv.org/abs/2605.13062">📄 Paper</a> |
   <a href="https://huggingface.co/datasets/DogNeverSleep/Edit-Compass">🤗 Edit-Compass Dataset</a> |
   <a href="https://huggingface.co/datasets/DogNeverSleep/EditReward-Compass">🤗 EditReward-Compass Dataset</a>
 </p>
