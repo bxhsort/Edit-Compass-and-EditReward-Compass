@@ -114,12 +114,15 @@ We evaluate **29 frontier image editing models** with Edit-Compass and **21 rewa
 
 ## 📚 Contents
 
-- [🔥 News](#news)
-- [📌 Benchmark Overview](#benchmark-overview)
-- [🏅 Model Rankings](#results)
-- [🧭 Edit-Compass](#Edit-Compass)
-- [📊 EditReward-Compass](#editreward-compass)
-- [🧩 Dataset Expectations](#dataset-expectations)
+- [🔥 News](#-news)
+- [📌 Benchmark Overview](#-benchmark-overview)
+- [🏅 Model Rankings](#-model-rankings)
+- [📚 Contents](#-contents)
+- [🧭 Edit-Compass](#-edit-compass)
+  - [🚀 Quick Start](#-quick-start)
+- [📊 EditReward-Compass](#-editreward-compass)
+- [🧩 Dataset Expectations](#-dataset-expectations)
+- [📚 Citation](#-citation)
 
 
 <a id="Edit-Compass"></a>
@@ -214,4 +217,17 @@ Edit-Compass/
 ├── Part4/  Algorithm Visual Reasoning Tasks
 ├── Part5/  Multi-Image Tasks
 └── Part6/  Complex Tasks
+```
+
+## 📚 Citation
+```bibtex
+@misc{bai2026editcompasseditrewardcompassunified,
+      title={Edit-Compass & EditReward-Compass: A Unified Benchmark for Image Editing and Reward Modeling}, 
+      author={Xuehai Bai and Yang Shi and Yi-Fan Zhang and Xuanyu Zhu and Yuran Wang and Yifan Dai and Xinyu Liu and Yiyan Ji and Xiaoling Gu and Yuanxing Zhang},
+      year={2026},
+      eprint={2605.13062},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2605.13062}, 
+}
 ```
